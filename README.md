@@ -39,6 +39,9 @@ The NodeMCU is a 3.3V logic device, while the HC-SR04 sensor runs on 5V and outp
 * Connect the **D6 (GPIO12)** pin to one end of a **2kΩ resistor (R2)**.
 * Connect the other end of **R2** to **GND**.
 
+## Hardware Setup
+![circuit_diagram](https://github.com/solomonprabu/IOT-waterlvl-alertSystem/blob/main/circuit_diagram.png)
+
 ## Software Setup
 
 ### 1. Arduino IDE Setup
